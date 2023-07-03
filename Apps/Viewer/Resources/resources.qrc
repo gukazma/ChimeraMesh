@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="/">
+    <file>Icons/openproject.png</file>
+    <file>Icons/newproject.png</file>
+    <file>Icons/saveproject.png</file>
+    <file>Icons/poxymesh.png</file>
+    <file>Icons/model.png</file>
+    <file>Icons/scale.png</file>
+    <file>Icons/trajectory.png</file>
+    <file>style.qss</file>
+    <file>Translations/zh_CN.qm</file>
+    <file>Translations/en_US.qm</file>
+  </qresource>
+</RCC>
